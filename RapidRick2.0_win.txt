@@ -1,0 +1,300 @@
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
+DELAY 700
+GUI r
+STRING microsoft-edge:https://youtu.be/dQw4w9WgXcQ?autoplay=1
+ENTER
+DELAY 500
+SPACE
